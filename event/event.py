@@ -64,8 +64,3 @@ class Event:
 	def __repr__(self):
 		attrs = ','.join((f'{k if k[0] != "_" else k[1:]}={v}' for k, v in self.__dict__.items()))
 		return f"{type(self).__name__}({attrs})"
-
-
-event = Event("Matura", "Kraków, Zacisze 8", "4-05-2022 9:00", 120, "Oliver", ["Ela", "Ola"])
-print(event)
-

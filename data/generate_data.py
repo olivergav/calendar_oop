@@ -11,7 +11,7 @@ class GenerateData:
 
 	@staticmethod
 	def _start_time_generator():
-		return f'{randint(1, 28)}-{randint(2, 12)}-{randint(2022, 2050)} {randint(0, 23)}:{randint(0, 59)}'
+		return f'{randint(1, 28)}-{randint(3, 12)}-{randint(2022, 2050)} {randint(0, 23)}:{randint(0, 59)}'
 
 	def generate(self, amount, path):
 		temp = []
