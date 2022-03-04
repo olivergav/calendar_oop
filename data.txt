@@ -1,0 +1,500 @@
+wino, amsterdam, 8-9-2030 5:55, 318, roman, ola, ola
+wino, berlin, 1-10-2036 3:25, 22, roman, ola, ela
+piwo, berlin, 14-5-2036 11:7, 506, roman, ola, ula
+piwo, warszawa, 21-3-2022 2:47, 112, ola, roman, ola, ela, ala
+wódka, amsterdam, 1-11-2045 15:23, 300, roman, ela, roman, roman, ula
+wino, warszawa, 20-12-2022 2:13, 128, ola, ula
+piwo, amsterdam, 11-10-2025 12:46, 499, ela, ala, ula
+piwo, berlin, 25-10-2041 7:22, 433, ula, ela, ala
+piwo, warszawa, 17-4-2033 14:56, 278, ola, roman, roman, ela, ola
+wódka, warszawa, 10-2-2031 12:42, 593, ela, ela, roman, ala, ala
+piwo, warszawa, 23-5-2024 18:40, 19, ela, ula
+wódka, berlin, 11-7-2033 1:33, 186, ula, ula, ala, ola, ela
+wódka, berlin, 23-11-2026 9:53, 376, ala, roman
+piwo, warszawa, 17-7-2024 10:57, 160, roman, ula, ola, ula, ala
+piwo, berlin, 13-9-2032 12:45, 449, ela, ela, ola
+wino, amsterdam, 1-9-2037 1:45, 398, roman, ola, ula, ula
+wino, berlin, 6-11-2046 19:14, 538, roman, ela
+wino, berlin, 8-12-2046 3:7, 547, ola, ula, ala
+wódka, berlin, 5-12-2028 15:54, 182, roman, ula, ala
+wino, amsterdam, 3-12-2039 21:16, 20, ala, ela
+wódka, berlin, 2-9-2030 22:27, 454, ela, ula, ola, ula, ala
+wódka, amsterdam, 2-9-2027 16:54, 30, ula, roman
+wino, amsterdam, 6-4-2035 7:30, 64, ula, ola, ela, ela
+piwo, amsterdam, 21-5-2028 11:45, 151, ola, ula, roman
+piwo, warszawa, 27-9-2044 23:28, 361, ola, ela, ala, ela, ula
+wódka, warszawa, 21-12-2038 7:32, 54, ela, ola, roman
+wódka, warszawa, 1-9-2044 1:39, 426, ula, ala, ala
+wódka, amsterdam, 5-5-2032 4:24, 229, ela, roman, roman, ula, ola
+wódka, amsterdam, 28-6-2033 18:31, 103, ula, ula
+wino, amsterdam, 19-11-2037 14:2, 24, ula, ala, ola, ula
+wódka, amsterdam, 10-5-2037 7:7, 466, ala, roman, roman, ala
+wódka, amsterdam, 14-7-2041 17:31, 294, ula, ola, ala, ola, ela
+wódka, berlin, 3-8-2023 9:23, 225, ela, roman, roman, roman, ela
+wódka, warszawa, 1-2-2038 11:56, 348, ula, ala
+wino, warszawa, 11-5-2026 10:33, 238, ela, ula, ola
+wino, amsterdam, 25-4-2038 13:35, 511, ola, ula, roman
+wino, warszawa, 7-6-2045 12:1, 169, ela, ula, ela
+wino, amsterdam, 8-4-2024 16:25, 25, ala, roman, ala
+wódka, warszawa, 20-7-2029 22:5, 513, ola, ela, ula
+wino, amsterdam, 15-5-2033 16:38, 592, ula, ola, ula
+piwo, warszawa, 23-2-2026 17:28, 158, ela, roman, ela, ala
+wino, warszawa, 19-3-2023 18:4, 471, ula, ula, roman, ela, ela
+wódka, amsterdam, 6-7-2041 12:10, 460, ala, ula, ola
+wódka, amsterdam, 9-7-2025 20:55, 254, roman, ula
+piwo, warszawa, 3-7-2040 5:22, 379, ula, roman, ola
+wódka, warszawa, 8-11-2026 9:26, 81, ula, roman, roman, ela
+piwo, amsterdam, 11-6-2032 16:45, 579, ola, ola, ela, ala
+piwo, warszawa, 13-11-2035 11:48, 148, ala, ala, ola, ala
+wódka, berlin, 5-6-2029 4:18, 561, ola, roman
+wódka, berlin, 28-11-2026 22:46, 521, ala, ala, ela
+piwo, warszawa, 19-7-2045 3:10, 387, roman, ula
+wódka, amsterdam, 24-4-2046 17:32, 441, ola, ala, ola
+wino, warszawa, 24-7-2036 11:24, 500, ola, ala, ela, ala, ula
+piwo, warszawa, 16-11-2022 3:3, 250, ola, ula, ola
+wino, berlin, 23-10-2024 16:38, 477, ola, ola
+wódka, amsterdam, 18-8-2032 23:52, 328, roman, roman, ala, ola, ola
+wódka, amsterdam, 18-2-2031 11:33, 52, ula, ela
+piwo, berlin, 2-8-2047 14:20, 319, ula, ula, ola, ala
+piwo, warszawa, 5-3-2025 7:43, 357, ala, roman
+wino, amsterdam, 5-5-2041 16:40, 260, ula, roman, ula
+piwo, amsterdam, 25-4-2022 5:43, 157, roman, ula, ela, ula, ola
+wino, warszawa, 1-7-2048 10:37, 266, ela, ula
+wódka, amsterdam, 23-8-2038 4:2, 87, ala, roman, ala, ola, ola
+wódka, berlin, 24-10-2043 16:43, 520, ola, roman
+wódka, amsterdam, 26-9-2027 12:21, 91, roman, ola, ula, roman
+piwo, warszawa, 27-3-2031 6:40, 230, ala, ula, ola, roman, ela
+wino, warszawa, 17-2-2041 17:4, 19, ela, ela
+wino, berlin, 25-5-2040 2:5, 95, ala, ela, ela
+wódka, warszawa, 18-4-2038 6:14, 185, ela, ola, ula, ula, ala
+piwo, warszawa, 24-7-2034 14:23, 57, ala, ela
+wino, amsterdam, 27-10-2043 3:55, 35, roman, ela, ola
+wino, berlin, 7-7-2038 10:9, 416, ola, ala, ola, ola, ela
+wódka, amsterdam, 7-6-2044 9:48, 459, ula, roman, ola
+wino, berlin, 4-7-2022 23:17, 46, ala, ola, ula, ela, ela
+piwo, berlin, 21-4-2034 16:50, 369, ala, ala, ela, ola, ola
+piwo, amsterdam, 16-3-2049 5:0, 488, ola, ola, ula, ala, ala
+wino, berlin, 9-8-2033 8:27, 368, ola, ela, roman
+piwo, amsterdam, 27-7-2038 21:42, 181, ala, roman
+piwo, warszawa, 26-6-2045 16:4, 49, ola, ula, ula
+wódka, amsterdam, 16-10-2048 20:21, 334, ula, ela
+wódka, warszawa, 28-6-2038 21:34, 482, ola, roman, roman
+wódka, amsterdam, 1-3-2038 15:56, 30, ela, roman, roman, roman
+wódka, amsterdam, 24-5-2044 3:27, 32, ola, roman, ala
+wino, amsterdam, 15-5-2034 21:20, 460, ola, ala
+wino, berlin, 19-10-2046 11:16, 579, ola, ala, ola, ola
+wódka, berlin, 10-5-2038 23:54, 231, ula, ala, ula
+wódka, warszawa, 23-12-2030 20:16, 357, ala, ala, ela, ula
+wino, warszawa, 12-3-2028 20:16, 231, ala, ela, ala, ela, roman
+wino, amsterdam, 10-5-2028 15:41, 524, roman, ala, ala, ola, ola
+wódka, amsterdam, 22-5-2047 21:53, 521, ela, ala, roman, ula
+piwo, amsterdam, 1-12-2037 1:45, 435, roman, ala
+wino, berlin, 4-7-2030 0:44, 538, ala, roman, ola, roman
+wino, amsterdam, 16-7-2025 17:31, 360, ola, ela
+wódka, berlin, 19-5-2030 20:15, 462, ula, ula, roman, ola
+wódka, berlin, 27-10-2037 14:52, 519, ula, ula
+piwo, warszawa, 28-12-2028 20:32, 27, ola, ela, ola, ela, ela
+wódka, warszawa, 27-5-2027 9:44, 482, ola, ala, ela
+wódka, amsterdam, 1-11-2030 18:21, 86, ela, ela, ola
+wino, berlin, 16-2-2023 12:13, 408, ela, ula, ula, roman, roman
+wino, berlin, 25-5-2041 0:11, 83, ula, ola, ula, roman
+piwo, warszawa, 10-12-2030 14:32, 25, ula, ala, roman, ala, roman
+wino, amsterdam, 23-12-2024 9:32, 70, ola, ela, roman
+wino, warszawa, 2-12-2028 9:1, 250, ola, ula
+wino, berlin, 22-12-2034 20:0, 363, roman, ela, ula, ela
+wino, berlin, 13-9-2028 15:9, 202, roman, ala, ela, ala, roman
+wódka, warszawa, 10-6-2026 16:53, 365, ola, ula, ela, roman
+piwo, warszawa, 14-11-2025 12:4, 291, ola, ela, ala, ela, roman
+wino, amsterdam, 25-11-2025 14:18, 257, ola, ela, roman
+wódka, berlin, 28-9-2040 2:35, 517, ala, ola, ela, roman, ala
+wódka, amsterdam, 15-9-2023 11:49, 306, ala, roman, roman
+wino, warszawa, 19-7-2034 5:47, 43, ela, ela, roman
+wódka, berlin, 24-3-2043 16:28, 363, ola, roman
+wino, warszawa, 25-10-2026 11:52, 495, ala, roman
+piwo, berlin, 11-12-2049 22:34, 439, ela, ula, ola, ola, roman
+piwo, berlin, 12-2-2028 19:49, 451, roman, ala, ela, ela
+wino, amsterdam, 20-2-2035 6:29, 536, ala, ala, ula, roman, ula
+wódka, berlin, 10-6-2031 3:2, 250, ola, ela, ela
+piwo, amsterdam, 8-6-2046 8:58, 389, roman, ola, ala
+piwo, amsterdam, 14-8-2044 13:24, 467, ela, ala, ola
+wino, berlin, 15-5-2045 13:56, 550, ola, ola, ula, ela
+wino, berlin, 26-7-2039 21:11, 246, ela, ela, ula
+wino, warszawa, 11-3-2044 21:36, 586, ela, ela, ela, roman, roman
+piwo, warszawa, 25-6-2036 0:10, 563, ola, ula
+wódka, berlin, 16-11-2049 12:44, 105, ala, ala, ola, ela, ula
+piwo, warszawa, 12-2-2022 22:31, 95, ula, ola
+wódka, berlin, 22-4-2047 4:31, 305, ela, ula
+wino, warszawa, 13-7-2027 18:52, 56, roman, ula, ela
+wódka, warszawa, 12-2-2027 2:17, 210, ela, ala, ola, ula
+wódka, berlin, 7-10-2048 11:56, 543, roman, ola, ola, ola
+wódka, berlin, 19-5-2050 13:39, 509, roman, roman, ola, ula
+piwo, amsterdam, 8-2-2027 22:50, 555, roman, ula, ela
+wódka, berlin, 9-7-2038 20:30, 328, roman, roman, ala
+piwo, amsterdam, 7-7-2024 22:3, 161, ola, ela, ela, ela
+piwo, warszawa, 12-6-2037 8:21, 394, roman, roman, ela
+piwo, warszawa, 1-6-2026 17:58, 245, ula, ela
+piwo, amsterdam, 15-7-2027 6:23, 129, ela, ela, roman, ala
+wino, berlin, 8-5-2027 1:28, 370, ela, ala, ela, roman
+wódka, amsterdam, 4-4-2045 1:3, 509, ola, ula, ula
+wino, berlin, 18-5-2042 2:8, 147, roman, ela
+wódka, warszawa, 16-6-2040 23:2, 460, ala, ula, roman
+wino, warszawa, 26-7-2044 12:43, 440, ula, ala, ela, ala, ela
+piwo, berlin, 1-12-2031 18:1, 189, ula, ela
+wino, berlin, 23-9-2034 18:20, 450, roman, ala, ula
+wino, amsterdam, 13-8-2037 1:44, 272, ala, ala
+piwo, berlin, 13-12-2042 19:16, 79, ola, ela, ala
+wódka, warszawa, 16-7-2049 1:9, 516, roman, roman, ola, ela, ela
+piwo, amsterdam, 14-5-2035 14:34, 547, ola, roman
+wino, amsterdam, 24-5-2033 22:19, 278, ola, ela, ela
+wino, amsterdam, 4-5-2022 3:24, 45, ala, ala
+wódka, amsterdam, 2-12-2039 2:2, 547, ola, ala, roman, ula, ala
+piwo, warszawa, 16-2-2043 1:52, 508, ula, ala, roman
+wódka, amsterdam, 13-3-2049 12:27, 143, ela, ala, ala
+piwo, warszawa, 15-7-2024 9:48, 74, ala, ela, ela, ola, ela
+wino, berlin, 23-8-2025 10:0, 461, roman, ula, ula
+wino, warszawa, 16-11-2032 18:24, 526, ola, ela, roman, ula, ula
+piwo, warszawa, 13-3-2029 17:32, 139, ala, ala
+piwo, berlin, 23-12-2022 15:23, 149, ela, ola, ola, roman, ela
+wódka, warszawa, 4-6-2048 18:22, 387, ela, ula, roman
+wino, warszawa, 24-9-2024 2:9, 516, roman, ula
+piwo, amsterdam, 9-4-2044 14:40, 273, roman, ula, ala, ala, ula
+wino, warszawa, 13-10-2032 2:43, 84, ela, ula, ula, ula, ula
+wódka, warszawa, 12-6-2026 5:9, 210, ula, ela
+wódka, warszawa, 22-2-2041 1:50, 207, roman, ola
+piwo, amsterdam, 4-9-2033 8:38, 95, ala, ula, roman
+piwo, amsterdam, 9-11-2035 4:26, 235, ala, ela, roman, roman, roman
+wino, warszawa, 28-4-2027 19:21, 225, roman, ula
+wódka, warszawa, 14-5-2049 11:27, 305, ela, ula, ola, ola, ola
+wino, berlin, 8-5-2029 12:59, 30, roman, ela, ala
+wino, berlin, 16-11-2022 2:55, 444, ola, ala, ola, ola
+piwo, berlin, 20-8-2034 18:29, 579, roman, roman
+wódka, amsterdam, 10-3-2023 4:4, 231, ela, ala, roman, roman
+wódka, amsterdam, 20-9-2045 2:39, 592, ola, ala, roman
+wódka, warszawa, 28-6-2027 10:41, 557, ola, ola, ala, roman, roman
+wino, berlin, 26-6-2034 15:35, 70, ala, roman, ola
+wódka, warszawa, 22-12-2041 22:34, 288, ula, roman
+wino, amsterdam, 3-10-2022 19:20, 292, roman, ela, ula
+wódka, warszawa, 1-11-2038 14:40, 41, ela, ola, roman
+wódka, warszawa, 17-7-2029 15:19, 484, ula, ala, ula, ula, roman
+piwo, berlin, 25-9-2036 4:46, 93, roman, ela
+wino, amsterdam, 24-8-2044 19:9, 374, roman, ola, roman
+wino, warszawa, 10-12-2038 9:28, 383, roman, ala, ola
+wino, berlin, 6-7-2046 13:33, 144, ula, ala, ala, ela
+wódka, amsterdam, 26-5-2023 21:11, 38, ela, ola
+piwo, warszawa, 23-6-2043 14:45, 488, ela, ula, ela, ula
+wódka, berlin, 11-3-2039 20:8, 56, ola, ula, roman, ola
+piwo, amsterdam, 18-10-2027 18:0, 540, roman, ola
+wódka, berlin, 1-7-2048 17:16, 180, roman, roman, ala
+wódka, warszawa, 7-9-2024 16:51, 32, roman, ala, ola, ela
+wódka, amsterdam, 15-8-2049 13:0, 19, ula, ola, ela
+wódka, amsterdam, 3-9-2032 20:28, 519, ela, ula, roman
+piwo, berlin, 1-4-2029 2:1, 400, ola, ola, ola
+wódka, berlin, 9-6-2030 1:43, 531, ala, ala
+wino, warszawa, 28-8-2022 15:13, 53, ola, ula
+wino, warszawa, 22-8-2031 16:2, 371, ula, ula, ula
+piwo, berlin, 24-12-2044 21:12, 244, roman, ala, ala, ola, ula
+wódka, warszawa, 2-4-2042 23:40, 145, roman, ula
+wino, warszawa, 10-7-2044 11:37, 81, ela, ula
+wino, berlin, 28-3-2032 13:8, 563, ola, ela, roman, roman
+wódka, warszawa, 6-12-2036 3:55, 423, roman, ula, ela
+wódka, amsterdam, 8-7-2025 19:41, 553, ula, ela, roman
+wino, warszawa, 4-9-2027 1:11, 158, ela, roman, ola
+wino, warszawa, 25-2-2034 5:32, 105, ela, ala, ela, ula, ola
+wódka, berlin, 9-9-2039 4:52, 370, ela, ela
+wódka, amsterdam, 21-7-2041 16:9, 413, roman, roman, ola, ula
+piwo, amsterdam, 23-12-2040 16:16, 66, ela, roman
+wino, berlin, 27-12-2041 0:28, 416, ola, ela, ala, ala, ola
+piwo, warszawa, 6-10-2034 7:25, 583, ola, ula, ula, ala
+piwo, warszawa, 27-8-2042 6:57, 339, ula, ula
+wino, warszawa, 27-10-2038 5:20, 113, ola, ela
+wino, berlin, 6-8-2044 12:39, 58, ula, roman, ula, ula, roman
+wódka, warszawa, 24-6-2035 11:51, 335, ola, ula, ola, ula
+wódka, warszawa, 1-10-2033 22:14, 86, ula, ela, ela, ela
+wino, warszawa, 21-6-2040 9:29, 585, roman, ula
+wino, warszawa, 26-11-2039 11:29, 452, ula, ela, roman, roman
+piwo, amsterdam, 28-5-2036 2:46, 477, ala, roman, ela, ola, ala
+wódka, warszawa, 4-7-2039 9:34, 185, ula, ela, ula, roman, ela
+piwo, amsterdam, 26-6-2049 21:33, 377, roman, ala, roman, ala
+wino, amsterdam, 28-7-2028 9:10, 398, ola, ola
+piwo, warszawa, 9-4-2036 22:44, 113, ula, ula, ela, roman, ola
+piwo, warszawa, 21-9-2025 9:28, 431, ala, ela
+piwo, berlin, 9-12-2043 13:20, 212, ela, roman
+wódka, warszawa, 1-11-2047 6:47, 178, ula, ala, roman, roman
+piwo, berlin, 5-3-2031 18:28, 390, ala, ala, roman, roman, ola
+wino, amsterdam, 9-2-2034 21:31, 508, ola, ala
+wino, amsterdam, 26-5-2039 3:24, 507, ula, ala, ala, ola, ela
+piwo, amsterdam, 26-3-2027 10:26, 285, roman, ala, ula, roman, ola
+wódka, warszawa, 25-3-2040 12:49, 548, ula, ela, ola, ala, roman
+piwo, amsterdam, 4-6-2047 2:12, 135, ula, ula
+piwo, warszawa, 10-10-2042 17:20, 65, ula, ola, ala
+piwo, warszawa, 13-9-2034 11:36, 122, ala, ula, ala
+piwo, berlin, 27-7-2032 7:17, 173, ola, ela, roman
+piwo, warszawa, 21-4-2025 15:41, 226, ala, ela
+wino, warszawa, 17-12-2038 22:32, 278, ola, ula, ola, ela, ala
+piwo, berlin, 25-2-2034 20:14, 230, roman, ela
+wino, berlin, 13-10-2022 17:38, 446, ula, ala, ola
+wódka, amsterdam, 23-5-2045 3:11, 470, roman, ula, ela, ola, ela
+wino, warszawa, 11-6-2037 13:48, 405, roman, ala
+piwo, warszawa, 2-8-2043 9:29, 74, ela, ela, ola
+piwo, warszawa, 24-9-2046 22:3, 344, roman, roman, roman, ula
+piwo, amsterdam, 24-11-2034 4:45, 412, roman, ela, ela, ula
+wódka, berlin, 5-10-2037 10:33, 221, ela, ala, roman
+wódka, warszawa, 22-2-2042 13:0, 157, ola, ela, ola, ela, roman
+wódka, berlin, 15-6-2029 17:45, 272, ola, roman
+piwo, berlin, 18-7-2033 20:56, 36, ela, roman
+wódka, amsterdam, 5-7-2049 6:51, 585, ola, ela, roman, ela, ula
+wino, amsterdam, 13-2-2047 19:37, 552, ula, ula
+wódka, berlin, 15-10-2034 10:16, 196, ula, ula, roman
+wino, amsterdam, 13-6-2036 5:31, 427, ela, roman
+wino, berlin, 14-7-2022 12:42, 562, ola, ala, ola
+wino, amsterdam, 22-11-2035 10:1, 401, ala, ela, roman, ela, roman
+wino, warszawa, 7-12-2050 18:12, 365, ala, roman, roman
+wino, warszawa, 3-11-2038 8:51, 392, ala, ala, roman
+wino, amsterdam, 15-11-2036 14:43, 372, ala, ala, roman, ala, ula
+wódka, amsterdam, 3-9-2036 22:8, 234, roman, ula
+piwo, berlin, 1-9-2023 8:52, 69, ala, roman
+wódka, berlin, 5-10-2045 3:28, 591, ola, ela, ela
+piwo, amsterdam, 11-11-2030 14:48, 321, ela, roman
+wódka, berlin, 20-3-2050 18:3, 103, ala, ola, ala, ula, ala
+wódka, warszawa, 22-5-2028 20:59, 570, roman, ula, ola
+wino, berlin, 22-11-2036 22:39, 246, ula, ola, ula
+wódka, warszawa, 28-7-2024 19:50, 528, ala, ola, ala, roman, ola
+piwo, warszawa, 5-4-2029 14:52, 62, ela, ola, roman, ola
+wódka, berlin, 7-5-2030 16:59, 528, roman, ola, roman, roman, roman
+wódka, amsterdam, 8-4-2050 14:47, 142, ela, roman, ala, roman
+wódka, amsterdam, 1-3-2043 11:58, 83, roman, ala, ela, ola, ela
+wódka, warszawa, 20-9-2046 8:18, 39, roman, ela, ala, ela
+wódka, warszawa, 9-4-2022 2:48, 391, ela, roman, ula, roman
+piwo, amsterdam, 5-9-2030 15:12, 272, ola, roman, ela
+piwo, berlin, 14-3-2024 0:18, 247, ala, roman, roman, ula, ola
+wódka, amsterdam, 11-4-2033 10:28, 26, ola, ola, ula, ala
+piwo, amsterdam, 3-2-2043 18:44, 246, ela, ula, ala, ula, ola
+wódka, berlin, 1-7-2039 22:29, 533, ola, ala
+wino, warszawa, 10-8-2031 0:32, 52, ala, ala
+piwo, warszawa, 5-10-2040 13:56, 28, ola, ola, ola, ala, ela
+piwo, amsterdam, 1-12-2027 13:38, 241, ola, ola
+piwo, berlin, 25-11-2044 22:26, 195, ela, ala
+piwo, berlin, 21-11-2046 10:49, 199, ola, roman, ela, roman
+piwo, amsterdam, 10-5-2043 19:13, 350, ala, roman, ala, roman
+wódka, berlin, 26-11-2046 17:56, 406, ola, ula
+piwo, amsterdam, 20-12-2036 19:33, 304, ela, ola
+wódka, warszawa, 16-6-2031 13:45, 178, ola, roman, ola, ela
+wino, berlin, 27-8-2043 8:34, 315, roman, ula, roman, ala, ola
+wódka, warszawa, 3-11-2024 20:48, 467, ela, roman, ula, ala, ela
+piwo, warszawa, 26-3-2024 19:29, 343, ela, ela, ela, ola
+wino, berlin, 11-9-2050 16:48, 199, ela, ala, roman, ela, ala
+wino, warszawa, 24-8-2035 11:29, 365, roman, ola, ela, ula, ela
+wino, warszawa, 25-6-2042 9:59, 499, ola, ala, ala, ola
+piwo, warszawa, 26-9-2022 21:21, 379, ela, ala
+wino, berlin, 17-7-2046 4:20, 337, ala, ola, ola, ela
+piwo, warszawa, 7-10-2049 7:48, 184, ela, ela, roman, ala
+wódka, amsterdam, 25-11-2026 8:48, 328, ela, ala, ela
+wódka, warszawa, 20-6-2028 22:55, 516, ula, ela, roman, roman, ala
+piwo, berlin, 21-3-2041 8:52, 515, ela, ela, ola
+wódka, amsterdam, 1-11-2032 0:38, 395, ola, ula, ola
+wino, warszawa, 5-11-2036 12:6, 317, ela, roman
+piwo, amsterdam, 1-8-2029 15:49, 258, ola, ola, roman, ela
+wino, amsterdam, 5-10-2029 17:56, 192, roman, ala, ela, ula
+wódka, berlin, 24-4-2039 1:8, 130, ela, ala, ola, ula
+wino, warszawa, 18-6-2035 23:41, 455, ela, ala, ela, ala
+piwo, berlin, 24-6-2047 1:45, 355, ala, ela
+wódka, amsterdam, 14-2-2032 2:11, 402, ula, ola, ola, ola
+piwo, berlin, 2-2-2033 6:42, 381, ela, roman, roman, ola, ola
+wódka, warszawa, 24-5-2050 13:22, 454, ola, ala
+piwo, amsterdam, 16-6-2035 17:24, 486, roman, ula
+wino, amsterdam, 23-7-2035 2:15, 186, ola, ula, ula, roman
+wino, amsterdam, 9-10-2034 5:5, 154, roman, ala
+piwo, berlin, 2-9-2045 17:33, 318, ela, ela
+wino, amsterdam, 14-6-2043 19:51, 396, ola, ola, roman, ala
+wino, amsterdam, 5-11-2027 20:52, 39, ula, ola
+wódka, warszawa, 22-7-2029 14:10, 99, roman, roman, roman, ola, ela
+wódka, berlin, 14-12-2024 18:19, 445, roman, ela, ula
+wino, berlin, 16-8-2040 5:16, 146, ela, ala, roman, roman
+piwo, berlin, 13-3-2047 20:59, 279, ola, ala, ala, ela
+wino, berlin, 20-4-2042 19:9, 292, ula, ula, ula, ela
+wódka, amsterdam, 25-11-2046 10:5, 35, ola, ela, ala, roman
+piwo, warszawa, 27-5-2048 15:49, 237, ela, ola
+wódka, berlin, 8-5-2035 10:34, 359, ela, ola, ala
+piwo, warszawa, 11-7-2027 16:22, 250, ula, ula, roman
+wino, warszawa, 3-10-2043 12:30, 317, ela, ola, roman, ala
+wino, berlin, 18-6-2022 5:30, 597, roman, ela, ola, ela, ala
+wódka, amsterdam, 18-3-2047 20:38, 220, ala, ola, ula
+piwo, berlin, 24-5-2032 15:7, 213, roman, ala
+wino, warszawa, 11-7-2045 6:12, 514, ela, ala, ola
+piwo, amsterdam, 7-9-2026 8:28, 195, ala, ola, ola, roman, ola
+wódka, warszawa, 1-11-2039 3:1, 294, ela, roman
+wódka, warszawa, 17-4-2027 6:8, 246, ela, ala, ola, ola
+wódka, berlin, 28-3-2049 16:51, 169, ola, ala
+wódka, amsterdam, 20-11-2040 2:16, 69, ela, ula, ela, ola, ela
+wódka, warszawa, 18-7-2049 0:40, 317, roman, ela, ula, roman, roman
+wódka, amsterdam, 18-7-2024 5:47, 345, ula, roman
+wino, berlin, 15-5-2042 13:23, 561, ala, ala, ala, ala
+wódka, berlin, 4-11-2036 23:1, 125, ola, ola
+piwo, amsterdam, 21-3-2032 13:38, 500, ula, ela
+piwo, warszawa, 12-5-2029 2:21, 269, ola, ula, ela, ala, ola
+wino, amsterdam, 20-5-2041 13:49, 480, ala, ela
+wino, berlin, 22-5-2050 8:6, 58, roman, ela, ula, ala
+piwo, berlin, 9-4-2045 7:22, 308, ola, roman, ala
+wódka, amsterdam, 12-2-2048 14:13, 308, ula, ala, ela, ala
+wino, warszawa, 23-4-2044 13:18, 252, roman, ala
+piwo, berlin, 21-10-2024 16:19, 569, ela, ula, roman, ola
+piwo, berlin, 23-4-2024 10:8, 538, ola, ala, ola
+wódka, berlin, 26-8-2028 19:37, 334, ula, ala, ula, ala
+piwo, amsterdam, 6-5-2023 8:56, 51, ola, ula
+piwo, warszawa, 17-6-2048 14:23, 131, roman, roman, ula
+wódka, warszawa, 1-9-2039 18:5, 86, ola, ela, ola, ela
+piwo, berlin, 6-2-2028 3:39, 83, ula, ula, roman
+wino, amsterdam, 7-8-2029 1:38, 506, roman, ela
+wino, warszawa, 6-11-2037 0:30, 37, ela, roman
+wódka, amsterdam, 25-7-2048 10:10, 593, ola, ala, ola, ala
+piwo, amsterdam, 8-9-2041 21:13, 371, ela, ula
+wino, amsterdam, 26-9-2034 23:46, 509, ola, roman, roman
+wódka, berlin, 22-4-2038 14:37, 350, ula, ola, roman, ola
+piwo, berlin, 2-4-2029 18:31, 423, ala, ela, ela, ala, ela
+piwo, amsterdam, 5-10-2033 23:2, 36, ula, ola
+wino, berlin, 15-2-2049 9:20, 308, ela, ola
+piwo, warszawa, 26-6-2028 1:49, 112, ela, ula, roman
+wódka, amsterdam, 26-10-2029 5:33, 171, roman, ala, ola
+piwo, warszawa, 10-7-2034 3:6, 478, ela, ola, ala
+wódka, berlin, 9-9-2047 21:4, 48, ela, ela, ula, roman, roman
+wino, berlin, 1-5-2041 17:56, 537, ola, ala
+wódka, warszawa, 26-11-2027 12:51, 479, ula, ula, ela
+wino, berlin, 14-11-2026 4:55, 341, roman, roman
+wino, berlin, 28-9-2026 9:10, 111, ala, ula, ola, ola, roman
+wódka, berlin, 26-9-2037 16:58, 388, ola, ela, roman, ela, ula
+wódka, amsterdam, 10-8-2037 1:33, 77, ola, ula, ala
+piwo, warszawa, 13-3-2029 2:1, 492, roman, roman, ala, ela, ala
+wino, berlin, 16-11-2030 1:2, 118, ula, ala, ula
+wódka, amsterdam, 9-12-2049 1:1, 427, ula, ola, ola, ela
+wódka, amsterdam, 20-11-2027 16:22, 182, ela, roman, ela
+wino, berlin, 18-12-2048 5:39, 445, ela, roman, ela
+wódka, amsterdam, 24-10-2040 10:40, 313, ula, ela, roman, roman
+wino, amsterdam, 26-10-2050 6:2, 139, ola, ula, ula, ela, ela
+piwo, berlin, 23-4-2027 6:57, 285, roman, ala, ela, ala, ela
+wódka, amsterdam, 2-11-2030 21:31, 89, ala, ula, ela, ola, ola
+wódka, berlin, 14-5-2032 15:3, 544, ela, ola
+wódka, berlin, 28-5-2045 16:43, 400, ola, ela
+piwo, berlin, 21-11-2026 22:10, 585, roman, roman
+wódka, warszawa, 27-4-2025 23:5, 22, ela, ula, ula, ula, roman
+wódka, amsterdam, 5-8-2025 10:40, 470, ala, roman, ola, ola, ala
+wino, amsterdam, 14-5-2036 12:5, 526, ula, roman, ela
+wódka, warszawa, 6-3-2024 6:9, 125, ala, ula, ula
+wino, amsterdam, 13-7-2035 12:48, 359, ala, roman, ola, ela, ela
+piwo, berlin, 26-11-2030 13:47, 508, ala, ela, ala
+piwo, warszawa, 25-3-2029 7:57, 228, ula, ula, ola, roman, ela
+wódka, berlin, 15-12-2033 15:41, 223, ula, ela, ula, roman
+wódka, warszawa, 1-5-2044 21:21, 586, ula, roman, roman, ela
+wino, berlin, 7-4-2037 23:5, 570, ala, ala, ela
+piwo, berlin, 25-8-2047 5:20, 408, ula, ola, ala, ola
+wino, berlin, 17-12-2023 6:53, 178, ala, ola, roman, ela
+wino, warszawa, 9-9-2027 7:7, 172, ela, ola, ala, ula
+piwo, berlin, 7-12-2043 16:13, 34, ula, ela, roman, ula, ula
+wino, amsterdam, 23-5-2041 6:6, 307, ela, ela, ula, ala
+piwo, amsterdam, 26-3-2043 5:24, 309, ola, roman, ela
+wino, amsterdam, 21-5-2040 13:11, 177, ala, ala
+wino, warszawa, 18-7-2029 11:3, 172, ola, ela, ela, ala, ola
+wino, amsterdam, 11-12-2035 18:18, 68, ula, ela, ula, ela
+piwo, amsterdam, 2-2-2033 10:30, 310, ola, roman, ala, ela, ola
+wódka, amsterdam, 28-2-2042 1:38, 361, ala, ala, ela, ula, ola
+piwo, berlin, 11-3-2045 12:27, 565, ula, roman, ula, ula, roman
+piwo, warszawa, 3-5-2028 3:25, 252, ela, ala, ola, ula, ala
+wódka, warszawa, 20-9-2038 3:59, 79, ola, ula, roman, ala, ula
+piwo, berlin, 8-4-2024 12:57, 548, roman, ela, roman, ela, roman
+piwo, berlin, 15-8-2049 1:36, 360, ola, ola, roman, roman
+piwo, warszawa, 8-2-2035 19:12, 176, ala, ela, ela, ola, ula
+piwo, amsterdam, 1-11-2042 16:36, 488, ola, ula, roman
+wódka, amsterdam, 28-2-2029 15:1, 439, ula, ala, ola, ula, ala
+piwo, berlin, 16-8-2035 18:29, 68, ula, roman
+wódka, warszawa, 14-12-2037 15:24, 568, ela, ola, ela
+wino, warszawa, 17-2-2036 20:50, 19, ula, ula, ela
+wino, berlin, 6-3-2022 13:53, 428, ala, ula
+wino, berlin, 13-11-2037 4:53, 515, ela, ola, ala
+wódka, warszawa, 24-10-2037 20:25, 472, roman, ola
+wino, amsterdam, 8-3-2027 16:9, 478, ala, ula, roman, ola
+wino, berlin, 7-2-2049 16:11, 210, roman, ala, roman, ela
+wódka, berlin, 20-9-2050 5:3, 419, ela, roman
+wino, warszawa, 19-2-2032 6:10, 426, ela, ela, ala
+wódka, berlin, 3-11-2040 1:12, 306, ola, ala, ola, roman, ola
+piwo, warszawa, 10-11-2040 9:6, 408, roman, ela, ala
+piwo, berlin, 14-12-2038 13:11, 578, ela, ela, roman, ala, ola
+wino, berlin, 3-8-2048 3:55, 479, ula, roman, roman, ela, ela
+piwo, amsterdam, 24-12-2046 8:1, 312, roman, roman, roman, ula, ala
+wódka, amsterdam, 10-11-2027 2:6, 530, ela, ola, ela
+wino, warszawa, 8-4-2030 5:22, 419, roman, ola, ula, ola
+wódka, berlin, 17-11-2033 2:30, 579, ula, ola, roman
+wino, amsterdam, 2-6-2029 8:46, 363, ela, roman
+piwo, amsterdam, 8-5-2042 19:11, 421, ola, ula
+wino, warszawa, 27-3-2041 20:7, 324, ula, ula
+wódka, warszawa, 2-5-2044 0:49, 190, roman, ula, ola, ala
+wódka, amsterdam, 24-3-2035 2:42, 416, ola, ula, ula, ola
+wino, berlin, 8-11-2026 14:0, 517, ola, ala
+wódka, berlin, 26-12-2024 18:46, 132, ola, ala, ola, ela
+piwo, berlin, 20-3-2036 6:37, 291, ula, ala, ola, ola
+wino, amsterdam, 24-8-2037 23:30, 73, ela, ula, ela, ala
+wino, warszawa, 26-3-2039 8:2, 334, ola, roman, ela, ela, roman
+wino, berlin, 22-4-2033 13:7, 294, ola, ala, ela
+piwo, warszawa, 12-6-2040 7:0, 527, ola, roman, roman, ela, ula
+wino, amsterdam, 17-7-2032 16:3, 559, ela, ala, ela, ela
+piwo, amsterdam, 16-12-2046 5:49, 221, ala, ala
+piwo, berlin, 17-7-2030 8:42, 129, ela, ala
+wódka, amsterdam, 17-7-2028 12:54, 270, ola, ola
+wódka, berlin, 27-9-2039 20:39, 590, ola, ala, ela, roman
+wino, warszawa, 4-7-2050 15:16, 172, roman, ola, ala, ela
+wino, amsterdam, 7-11-2025 21:24, 555, ela, ola, ela, ula
+wino, amsterdam, 9-9-2041 23:40, 445, ula, roman, ela, roman, ula
+wódka, berlin, 1-6-2028 22:41, 548, ula, roman, roman, ela
+piwo, warszawa, 7-3-2022 0:26, 157, ola, ela
+wódka, amsterdam, 23-12-2043 21:59, 437, ola, ala, ola
+wino, amsterdam, 6-12-2046 15:52, 351, roman, roman, ela, ela
+piwo, amsterdam, 12-3-2034 4:0, 282, roman, ela
+wino, warszawa, 4-4-2043 11:29, 55, ela, ala, ula, roman
+wino, warszawa, 24-5-2041 9:13, 214, roman, ola, ula
+wódka, berlin, 21-9-2027 15:57, 127, ela, ala, roman
+wino, amsterdam, 11-2-2023 14:25, 580, ela, ala
+piwo, warszawa, 7-4-2023 12:21, 97, ala, ela, ala
+piwo, warszawa, 23-6-2038 12:58, 246, ula, ola, ola, ola
+wino, amsterdam, 5-6-2031 12:48, 185, ola, ola, ola, roman
+piwo, warszawa, 27-7-2044 20:29, 252, ula, ala
+wódka, berlin, 11-3-2026 2:6, 95, ola, ela, ala, ala
+wódka, warszawa, 21-5-2027 7:34, 224, ela, ula, roman, ola
+piwo, berlin, 6-6-2035 21:4, 84, roman, roman, ela, ala
+piwo, amsterdam, 14-8-2045 1:54, 18, roman, ela, ela, ola, roman
+wódka, berlin, 20-8-2037 16:5, 181, roman, roman, ola
+wódka, berlin, 18-11-2022 12:10, 424, ala, roman, ela, ela
+piwo, amsterdam, 20-4-2035 16:14, 275, ola, roman
+wódka, warszawa, 9-8-2050 23:6, 373, ala, ola, ala
+wino, amsterdam, 28-9-2042 23:0, 305, ula, ala
+wódka, warszawa, 9-11-2031 21:13, 167, ala, ela
+wódka, amsterdam, 18-2-2023 20:6, 126, ola, ala, ola
+wino, warszawa, 16-5-2032 1:15, 28, ola, ula, ala, ula
+wino, warszawa, 5-9-2049 0:50, 426, ola, ala, roman, roman, ala
+wódka, berlin, 15-12-2025 20:43, 498, roman, roman, ala
+piwo, warszawa, 11-11-2049 15:41, 155, ula, roman
+wino, amsterdam, 28-7-2039 19:19, 203, ula, ala, roman
+piwo, warszawa, 22-10-2039 11:48, 116, roman, roman
+piwo, warszawa, 9-10-2042 2:59, 535, ula, ula, roman, ola
+wódka, amsterdam, 20-10-2047 7:51, 45, ala, roman, roman, ula
+wino, berlin, 26-12-2045 3:4, 377, ela, roman
+piwo, warszawa, 15-5-2049 15:47, 190, ola, ela, ela, ala
+wino, berlin, 21-7-2034 19:27, 517, roman, ala, ela
+wino, warszawa, 11-6-2043 7:51, 445, ola, roman
+wódka, warszawa, 6-3-2023 15:45, 104, ala, roman
+piwo, warszawa, 2-4-2045 16:13, 385, ela, ala, ela, ula
+wódka, berlin, 28-8-2049 13:48, 152, ula, roman, ola, ela, roman
+wino, berlin, 18-12-2039 7:51, 498, ala, ala
+wódka, amsterdam, 25-6-2034 8:38, 223, ala, ula
+wino, berlin, 11-6-2039 20:22, 420, ula, ela, roman
+wódka, warszawa, 3-10-2042 10:5, 471, ola, ala, ola
+wino, warszawa, 20-12-2043 16:3, 336, roman, ela, ala
+wino, berlin, 21-8-2045 13:27, 202, ola, ala, ela, roman, ala
+piwo, amsterdam, 8-8-2040 5:26, 153, ela, ola, ala, roman
+piwo, berlin, 3-11-2028 23:10, 336, ela, ula
+piwo, berlin, 6-3-2047 10:55, 434, ula, ula, ula, roman, ala
+wódka, amsterdam, 17-5-2038 2:1, 462, ula, ula, roman, ula
+wódka, berlin, 26-5-2038 7:45, 581, ola, ala, ola, ola
+wódka, warszawa, 1-11-2037 10:5, 357, roman, roman, ula, ula
+piwo, amsterdam, 6-10-2035 0:52, 485, ela, ola, ola, ola, ola
+wino, berlin, 5-4-2049 16:59, 264, ula, ala, ela, ela, ula
+wódka, amsterdam, 4-10-2043 19:41, 202, ula, ula, roman, roman, roman
+piwo, amsterdam, 13-4-2022 17:31, 377, roman, ala
+piwo, warszawa, 22-12-2045 22:51, 499, roman, roman, ula, ola, ola

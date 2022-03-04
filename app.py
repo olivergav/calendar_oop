@@ -62,9 +62,10 @@ class Event:
 		return f"{self.title}, time to event: {total_seconds.days} days, {hours} hour(s), {minutes} minute(s), {seconds} second(s). "
 
 	def __repr__(self):
-		return f"{type(self).__name__}('{self.title}', '{self.location}', '{self.start_time}', '{self.duration}', '{self.owner}', {self.participants})"
+		attrs = ','.join((f'{k if k[0] != "_" else k[1:]}={v}' for k, v in self.__dict__.items()))
+		return f"{type(self).__name__}({attrs})"
 
 
-# event = Event("Matura", "Kraków, Zacisze 8", "4-05-2022 9:00", 120, "Oliver", ["Ela", "Ola"])
-
+event = Event("Matura", "Kraków, Zacisze 8", "4-05-2022 9:00", 120, "Oliver", ["Ela", "Ola"])
+print(event)
 
